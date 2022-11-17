@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MoneyManager</string>
+    <string name="hey_welcome">Hey!Welcome</string>
+    <string name="home">home</string>
+    <string name="history" />
+    <string name="chart" />
+    <string name="profile" />
+    <string name="Home">Home</string>
+    <string name="History">History</string>
+    <string name="Chart">Chart</string>
+    <string name="Profile">Profile</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="social_lifestyle"><![CDATA[Social & Lifestyle]]></string>
+    <string name="beauty_health"><![CDATA[Beauty & Health]]></string>
+    <string name="entertainment">Entertainment</string>
+
+    <string-array name="statusList">
+        <item>Happy</item>
+        <item>Work</item>
+        <item>Gaming</item>
+        <item>Sleep</item>
+        <item>Exercise</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
